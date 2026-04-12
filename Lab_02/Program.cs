@@ -73,7 +73,7 @@ class Program
         student4.DisplayInfo();
 
         // Updating the grade of student3 and displaying the updated info
-        Console.WriteLine("\n--- Updating Ali's Grade ---");
+        Console.WriteLine("\n--- Updating Aly's Grade ---");
         student3.UpdateGrade(3.5);
         student3.DisplayInfo();
     }
