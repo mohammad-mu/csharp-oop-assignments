@@ -59,7 +59,7 @@ class Program
         book1.DisplayInfo();
         book2.DisplayInfo();
         // Try modifying their title or author
-        // book1.Title = "New Title"; 
-        // book2.Author = "New Author";
+        // book1.Title = "Logic Circuits"; 
+        // book2.Author = "Dr.Muhammed Mahfouz";
     }
 }
